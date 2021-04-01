@@ -1,0 +1,19 @@
+{
+    "name": "shagor/contact",
+    "description": "Basic contact us functionality in laravel package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Md. Shagor Sarder",
+            "email": "shagor.sarder.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Shagor\\Contact\\": "src/"
+        }
+    }
+}
